@@ -499,6 +499,7 @@ var topLeftContainerDiv = document.getElementById('top-left-container')
 var bottomLeftContainerDiv = document.getElementById('bottom-left-container')
 var topRightContainerDiv = document.getElementById('top-right-container')
 var bottomRightContainerDiv = document.getElementById('bottom-right-container')
+
 //title
 
 var Title = new ol.control.Control({
@@ -511,6 +512,7 @@ var Title = new ol.control.Control({
     target: 'top-right-container'
 });
 map.addControl(Title)
+
 //abstract
 
 
