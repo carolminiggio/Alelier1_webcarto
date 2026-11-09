@@ -17,4 +17,4 @@ Import d'une carte en OpenLayers et d'une carte en Leaflet.
 - [Webcarto réalisée avec Qgis2web exportée en Leaflet](https://carolminiggio.github.io/Alelier1_webcarto/bateau_bus_etangeberre_leaflet/index.html)
 
 ## visualiser la carte 
-<iframe src=" bateau_bus_etangeberre_openlayer/index.html" height="700" width="700"></iframe>.
+<iframe src="bateau_bus_etangeberre_openlayer/index.html" height="700" width="700"></iframe>.
